@@ -1,0 +1,15 @@
+current directory: /home/alini/workspace/ruby/exceptions/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20240406-1539-oecbu3.rb extconf.rb
+creating Makefile
+
+current directory: /home/alini/workspace/ruby/exceptions/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= clean
+
+current directory: /home/alini/workspace/ruby/exceptions/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\=
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/alini/workspace/ruby/exceptions/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240406-1539-8l47i4
